@@ -9,7 +9,7 @@ componentes, incluindo a sua despaletização e re-paletização. O robô antrop
 gravação numa superfície do componente, e os robôs SCARA são responsáveis por colocar e retirar o componente no
 suporte onde se faz a gravação.
 
-O enunciado pode ser lido no documento "Trab_2-2015-2016.pdf".
+O enunciado pode ser lido no documento "docs/Trab_2-2015-2016.pdf".
 
 # Resultados
 Deste trabalho resultou o código partilhado neste repositório e o video: https://youtu.be/sM72NpZmgzg 
