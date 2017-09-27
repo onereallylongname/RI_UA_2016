@@ -12,5 +12,4 @@ suporte onde se faz a gravação.
 O enunciado pode ser lido no documento "docs/Trab_2-2015-2016.pdf".
 
 # Resultados
-Deste trabalho resultou o código partilhado neste repositório e o video: https://youtu.be/sM72NpZmgzg 
-
+Deste trabalho resultou o código partilhado neste repositório, o video: https://youtu.be/sM72NpZmgzg , e o documento "TP2_RI_64960.pdf" onde é explicado (sucintamente) o código e o seu funcionamento.
